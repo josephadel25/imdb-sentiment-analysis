@@ -53,10 +53,7 @@ This project uses machine learning to classify IMDB movie reviews as **positive*
 ## ▶️ How to Run
 
 1. Clone the repo
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-  '''
+2. Install required libraries
 3.Add the dataset
 4.Run sentement.ipynb in Jupyter or VS Code
 
