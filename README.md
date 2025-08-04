@@ -58,6 +58,7 @@ This project uses machine learning to classify IMDB movie reviews as **positive*
 4. Run sentement.ipynb in Jupyter or VS Code
 
 ## 📁 Folder Structure
+.
 ├── sentement.ipynb
 ├── IMDB Dataset.csv
 └── README.md
