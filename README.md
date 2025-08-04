@@ -61,4 +61,6 @@ This project uses machine learning to classify IMDB movie reviews as **positive*
 .
 ├── sentement.ipynb
 ├── IMDB Dataset.csv
+├── requirements.txt
 └── README.md
+
